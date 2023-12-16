@@ -176,10 +176,7 @@ main{
 
     }
 
-    nav ul li a:hover{
-        color: #372c62;
-        transition: background-color 0.05s;
-    }
+
     
     nav ul.active{
         transform: translateX(0);
