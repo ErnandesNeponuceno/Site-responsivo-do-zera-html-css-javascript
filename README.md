@@ -19,7 +19,7 @@ Além de outros recursos.
 </div>
 
 ## 💻 Preview:
-- Veja como ficou o projeto acessando: [Link](https://javascript-css-site-responsivo-do-zero-umbpgbk2z.vercel.app/)
+- Veja como ficou o projeto acessando: [Link](https://javascript-css-site-responsivo-do-zero.vercel.app/)
   
 ![Imagem do Projeto](assets/img/tela.png)
 
