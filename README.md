@@ -19,7 +19,7 @@ Além de outros recursos.
 </div>
 
 ## 💻 Preview:
-- Veja como ficou o projeto acessando: [o link do Github Pages](https://ernandesneponuceno.github.io/Site-responsivo-do-zero-html-css-javascript/)
+- Veja como ficou o projeto acessando: [Link](https://javascript-css-site-responsivo-do-zero-umbpgbk2z.vercel.app/)
   
 ![Imagem do Projeto](assets/img/tela.png)
 
